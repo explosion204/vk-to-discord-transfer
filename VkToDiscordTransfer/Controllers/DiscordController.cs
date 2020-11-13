@@ -24,7 +24,7 @@ namespace VkToDiscordTransfer.Controllers
         
         [HttpPost]
         [Route("vk_callback")]
-        public IActionResult NewPost([FromBody] Request request)
+        public IActionResult Post([FromBody] Request request)
         {
             switch (request.Type)
             {
