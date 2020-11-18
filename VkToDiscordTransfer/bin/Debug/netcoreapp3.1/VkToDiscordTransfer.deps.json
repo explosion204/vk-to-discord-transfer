@@ -24,7 +24,6 @@
     ".NETCoreApp,Version=v3.1": {
       "VkToDiscordTransfer/1.0.0": {
         "dependencies": {
-          "AWSSDK.Core": "3.5.1.35",
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "3.1.10",
           "Newtonsoft.Json": "12.0.3",
           "VkNet": "1.57.0",
@@ -316,17 +315,6 @@
         },
         "compile": {
           "VkToDiscordTransfer.dll": {}
-        }
-      },
-      "AWSSDK.Core/3.5.1.35": {
-        "runtime": {
-          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
-            "assemblyVersion": "3.3.0.0",
-            "fileVersion": "3.5.1.35"
-          }
-        },
-        "compile": {
-          "lib/netcoreapp3.1/AWSSDK.Core.dll": {}
         }
       },
       "HtmlAgilityPack/1.11.25": {
@@ -2120,13 +2108,6 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
-    },
-    "AWSSDK.Core/3.5.1.35": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-WDde8yIF2i0RjIAY21snc6VrPSr1MlUDepLC1dECXag9OcCgNqtsudllUu9Efv7+8Q+DdvL5MW0dSb2SYSPO2w==",
-      "path": "awssdk.core/3.5.1.35",
-      "hashPath": "awssdk.core.3.5.1.35.nupkg.sha512"
     },
     "HtmlAgilityPack/1.11.25": {
       "type": "package",

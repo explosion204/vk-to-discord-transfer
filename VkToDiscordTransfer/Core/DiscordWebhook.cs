@@ -32,6 +32,7 @@ namespace VkToDiscordTransfer.Core
                         {
                             description = messageBody,
                             title = messageTitle,
+                            //color = "#6D02AB",
                             image = new
                             {
                                 url = imageUrl

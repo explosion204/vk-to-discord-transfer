@@ -21,7 +21,6 @@ D:\projects\VkToDiscordTransfer\VkToDiscordTransfer\obj\Debug\netcoreapp3.1\VkTo
 D:\projects\VkToDiscordTransfer\VkToDiscordTransfer\obj\Debug\netcoreapp3.1\VkToDiscordTransfer.pdb
 D:\projects\VkToDiscordTransfer\VkToDiscordTransfer\obj\Debug\netcoreapp3.1\VkToDiscordTransfer.genruntimeconfig.cache
 D:\projects\VkToDiscordTransfer\VkToDiscordTransfer\bin\Debug\netcoreapp3.1\aws-beanstalk-tools-defaults.json
-D:\projects\VkToDiscordTransfer\VkToDiscordTransfer\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
 D:\projects\VkToDiscordTransfer\VkToDiscordTransfer\obj\Debug\netcoreapp3.1\VkToDiscordTransfer.csprojAssemblyReference.cache
 D:\projects\VkToDiscordTransfer\VkToDiscordTransfer\obj\Debug\netcoreapp3.1\VkToDiscordTransfer.csproj.CoreCompileInputs.cache
 D:\projects\VkToDiscordTransfer\VkToDiscordTransfer\obj\Debug\netcoreapp3.1\VkToDiscordTransfer.MvcApplicationPartsAssemblyInfo.cache
