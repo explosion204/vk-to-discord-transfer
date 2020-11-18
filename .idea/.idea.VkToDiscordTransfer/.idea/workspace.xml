@@ -14,19 +14,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a7e5a86-cdd4-4bae-b6b1-35ff6708f2ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/VkToDiscordTransfer/Core/DiscordWebhook.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VkToDiscordTransfer/Core/DiscordWebhook.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VkToDiscordTransfer/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/VkToDiscordTransfer/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VkToDiscordTransfer/bin/Debug/netcoreapp3.1/AWSSDK.Core.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VkToDiscordTransfer/bin/Debug/netcoreapp3.1/VkToDiscordTransfer.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/VkToDiscordTransfer/bin/Debug/netcoreapp3.1/VkToDiscordTransfer.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VkToDiscordTransfer/bin/Debug/netcoreapp3.1/VkToDiscordTransfer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VkToDiscordTransfer/bin/Debug/netcoreapp3.1/VkToDiscordTransfer.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VkToDiscordTransfer/bin/Debug/netcoreapp3.1/VkToDiscordTransfer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/VkToDiscordTransfer/bin/Debug/netcoreapp3.1/VkToDiscordTransfer.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VkToDiscordTransfer/bin/Debug/netcoreapp3.1/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/VkToDiscordTransfer/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VkToDiscordTransfer/obj/Debug/netcoreapp3.1/VkToDiscordTransfer.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VkToDiscordTransfer/obj/Debug/netcoreapp3.1/VkToDiscordTransfer.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VkToDiscordTransfer/obj/Debug/netcoreapp3.1/VkToDiscordTransfer.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/VkToDiscordTransfer/obj/Debug/netcoreapp3.1/VkToDiscordTransfer.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VkToDiscordTransfer/obj/Debug/netcoreapp3.1/VkToDiscordTransfer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VkToDiscordTransfer/obj/Debug/netcoreapp3.1/VkToDiscordTransfer.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VkToDiscordTransfer/obj/Debug/netcoreapp3.1/VkToDiscordTransfer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VkToDiscordTransfer/obj/Debug/netcoreapp3.1/VkToDiscordTransfer.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VkToDiscordTransfer/obj/Debug/netcoreapp3.1/VkToDiscordTransfer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/VkToDiscordTransfer/obj/Debug/netcoreapp3.1/VkToDiscordTransfer.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VkToDiscordTransfer/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/VkToDiscordTransfer/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VkToDiscordTransfer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VkToDiscordTransfer/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

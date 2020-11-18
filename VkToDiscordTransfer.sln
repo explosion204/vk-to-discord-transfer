@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VkToDiscordTransfer", "VkToDiscordTransfer\VkToDiscordTransfer.csproj", "{2EA11DFB-14BC-4627-8B55-4D989C648997}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNetCoreTestApp", "ASPNetCoreTestApp\ASPNetCoreTestApp.csproj", "{2EA11DFB-14BC-4627-8B55-4D989C648997}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

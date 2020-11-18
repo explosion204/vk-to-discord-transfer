@@ -395,11 +395,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\VkToDiscordTransfer\\VkToDiscordTransfer\\VkToDiscordTransfer.csproj",
-      "projectName": "VkToDiscordTransfer",
-      "projectPath": "D:\\projects\\VkToDiscordTransfer\\VkToDiscordTransfer\\VkToDiscordTransfer.csproj",
+      "projectUniqueName": "D:\\projects\\VkToDiscordTransfer\\ASPNetCoreTestApp\\ASPNetCoreTestApp.csproj",
+      "projectName": "ASPNetCoreTestApp",
+      "projectPath": "D:\\projects\\VkToDiscordTransfer\\ASPNetCoreTestApp\\ASPNetCoreTestApp.csproj",
       "packagesPath": "C:\\Users\\Dmitry\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\VkToDiscordTransfer\\VkToDiscordTransfer\\obj\\",
+      "outputPath": "D:\\projects\\VkToDiscordTransfer\\ASPNetCoreTestApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet"
