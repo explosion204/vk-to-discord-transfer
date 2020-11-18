@@ -52,4 +52,4 @@ jobs:
       
            
       - name: Deploy our new Application Version
-        run : aws elasticbeanstalk update-environment --environment-name ${{ env.EB_ENVIRONMENT_NAME }}
+        run : aws elasticbeanstalk update-environment --environment-name ${{ env.ENV_NAME }}
