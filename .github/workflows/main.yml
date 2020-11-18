@@ -12,8 +12,8 @@ on:
 
 env:
   S3_BUCKET_NAME: "elasticbeanstalk-us-west-2-559355273819"
-  APP_NAME: "VkToDiscordTransfer"
-  ENV_NAME: "VkToDiscordTransfer"
+  APP_NAME: "TestASPNetCoreApp"
+  ENV_NAME: "Testaspnetcoreapp-env"
   PACKAGE_NAME: "app-${{ github.sha }}.zip"
   AWS_REGION: "us-west-2"
   
@@ -60,4 +60,4 @@ jobs:
             --description "CommitSHA-${{ github.sha }}"
 
       - name: Deploy our new Application Version
-        run : aws elasticbeanstalk update-environment --environment-name ${{ env.ENV_NAME }}
+        run : aws elasticbeanstalk update-environment --environment-name ${{ env.ENV_NAME }} --version-label "Ver-${{ github.sha }}"
