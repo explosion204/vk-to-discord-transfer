@@ -27,7 +27,7 @@ jobs:
         uses: actions/checkout@v1
         
       - name: create zip package
-        run: zip -r ${{ env.PACKAGE_NAME }}
+        run: zip -r ${{ env.PACKAGE_NAME }} ./
         
       - name: configure aws credentials
         uses: aws-actions/configure-aws-credentials@v1
