@@ -20,7 +20,7 @@ namespace VkToDiscordTransfer.Controllers
         }
         
         [HttpGet]
-        public string Get() => "ok";
+        public string Get() => "test ok";
         
         [HttpPost]
         [Route("vk_callback")]
